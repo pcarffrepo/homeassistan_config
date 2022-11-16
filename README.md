@@ -25,10 +25,7 @@ I downloaded the windows hosts from the [Oracle Virtual Box](https://www.virtual
 
 To prevent some problems (I ran out of storage in my VM, thaks to [Kiril Peyanski's Blog](https://peyanski.com/) for the solution) a few steps shoud be considered!
 
-Fist Step:
+![Passo 1](https://user-images.githubusercontent.com/118359759/202221853-08e5aec3-1553-45ce-941d-95fca2b1a8a9.jpg) ![Passo 2](https://user-images.githubusercontent.com/118359759/202224015-87b2b6de-a9ad-4188-b822-c4c8fcee727b.jpg)
 
-![VMmachine1](https://user-images.githubusercontent.com/118359759/202221853-08e5aec3-1553-45ce-941d-95fca2b1a8a9.jpg)
-
-Second Step:
 
 
