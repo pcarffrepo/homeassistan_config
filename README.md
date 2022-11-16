@@ -7,4 +7,12 @@ And most of all, I saw the same questions I had with no response to find in anot
 
 # History
 
-My first contact with the "smart home" concept was with the necessity of control an a
+My first contact with the "smart home" concept was with the necessity of control the acess of my home so I bought an Aqara Zigbee Hub and a Zigbee Magnetic Sensor. Anf after a month I ended up and bought a Xiaomi camrea since the all could funtion in the same ecosystem.
+
+Time has passed and I started to experiment with some real solutions to some self hosted home automation like Domoticz, OpenHAB and Home Assistant but at the time I ended up feeling that the process was to much envolved for my needs and actually having a server 24h was not in my plans.
+
+In the start of this year two things happend of my 3 Xiaomi cameras, ony 2 now work... Not because the hardware has any problem but because Xiaomi simpli stopped allowing it to function outside of China, also made me realize that all my data is being sent to some random server to China (or some where else)
+
+## Version 1
+
+
