@@ -19,4 +19,16 @@ So I gave Home assistant again a new shot... But I was not ready to fully commit
 
 I went to [Home Assistant Website](https://www.home-assistant.io/) and started to studie my choices. My home computers run on Windows (different versions of it) but I have some basic knowledge of sone linux code from University so I thought it shoudn't be so hard (I was wrong) but actually setting up the server is not that difficut.
 
-My chosen metod of instalation was Home Assistant Operating System running on Oracle VM Virtual Box
+My chosen metod of instalation was Home Assistant Operating System running on Oracle VM Virtual Box in my 2 years old laptop (probaly not the best choice but it was the machine the was easier to work with at the moment)
+
+I downloaded the windows hosts from the [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads) and complete de installation and the downloaded the vdi image on the [windows download section of Home Assistant](https://www.home-assistant.io/installation/windows).
+
+To prevent some problems (I ran out of storage in my VM, thaks to [Kiril Peyanski's Blog](https://peyanski.com/) for the solution) a few steps shoud be considered!
+
+Fist Step:
+
+![VMmachine1](https://user-images.githubusercontent.com/118359759/202221853-08e5aec3-1553-45ce-941d-95fca2b1a8a9.jpg)
+
+Second Step:
+
+
