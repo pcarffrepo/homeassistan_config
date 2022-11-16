@@ -13,6 +13,10 @@ Time has passed and I started to experiment with some real solutions to some sel
 
 In the start of this year two things happend of my 3 Xiaomi cameras, ony 2 now work... Not because the hardware has any problem but because Xiaomi simpli stopped allowing it to function outside of China, also made me realize that all my data is being sent to some random server to China (or some where else)
 
-## Version 1
+### Version 1 (10/2022)
 
+So I gave Home assistant again a new shot... But I was not ready to fully commit!
 
+I went to [Home Assistant Website](https://www.home-assistant.io/) and started to studie my choices. My home computers run on Windows (different versions of it) but I have some basic knowledge of sone linux code from University so I thought it shoudn't be so hard (I was wrong) but actually setting up the server is not that difficut.
+
+My chosen metod of instalation was Home Assistant Operating System running on Oracle VM Virtual Box
